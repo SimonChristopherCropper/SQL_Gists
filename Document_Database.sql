@@ -1,0 +1,2 @@
+SELECT * FROM ALL_TAB_COLS where owner='SVOP';
+SELECT * FROM ALL_VIEWS where owner='SVOP'
