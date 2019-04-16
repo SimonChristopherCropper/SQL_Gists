@@ -1,20 +1,13 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+In GIT a GIST is a short bit of code, notes or snippet.
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+This SQL repository includes a range of SQL gists to use with Oracle SQL Server.
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+# How to use and contribute
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://www.visualstudio.com/en-us/docs/git/create-a-readme). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+1. Open Oracle SQL Developer
+2. Clone the VSTS *SQL_Gists* repository to your local P: drive.
+3. Open an existing text file to view example code. Select the line and run code after adding in variables in {}.
+4. Alternately, create a new worksheet with generic code and save to your local repository.
+5. Add the changes made, commit the work and push to master when the work is finished.
