@@ -15,3 +15,4 @@ This SQL repository includes a range of SQL gists to use with Oracle SQL Server.
 # Troubleshooting
 
 1. If you can't see the repository in your SQL Developer Version Pane then initialize a local repository in your %AppData% directory. The default is project. Once you do this the SQL_Gists repo appears as well.
+2. If you use GIT for Windows to update a repo currently being used by SQL Developer it will create a branch that will need to be merged.
